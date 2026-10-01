@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+release/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Binary hasil compile harness firmware (tools/firmware-test/run.sh)
+tools/firmware-test/.build/

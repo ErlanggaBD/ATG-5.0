@@ -1,0 +1,13 @@
+# Artefak build Arduino
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.eep
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+*~
